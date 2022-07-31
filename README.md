@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Tools Manufacturer App](https://manufacturer-website-50975.firebaseapp.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **typescript and GraphQL.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
